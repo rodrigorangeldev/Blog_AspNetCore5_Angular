@@ -1,5 +1,5 @@
 # Blog com Aspnet Core 5 e Angular
-Projeto simples de blog desenvolvido com Aspnet Core 5 e Angular, baseado no artigo (https://dev.to/dileno/build-a-simple-crud-app-with-angular-8-and-asp-net-core-2-2-part-1-back-end-39e1). No projeto original, foi utilizado o SDK do Aspnet Core 2.2, porém, foi feito o porte tranquilamente para a versão 5.
+Projeto simples de blog desenvolvido com Aspnet Core 5 e Angular, baseado no artigo original disponível em (https://dev.to/dileno/build-a-simple-crud-app-with-angular-8-and-asp-net-core-2-2-part-1-back-end-39e1). No projeto original, foi utilizado o SDK do Aspnet Core 2.2, porém, foi feito o porte tranquilamente para a versão 5.
 
 ![a001](https://github.com/rodrigorangeldev/Blog_AspNetCore5_Angular/blob/main/gif0001.gif?raw=true)
 ![b001](https://github.com/rodrigorangeldev/Blog_AspNetCore5_Angular/blob/main/gif0002.gif?raw=true)
