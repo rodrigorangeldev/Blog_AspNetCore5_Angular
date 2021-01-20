@@ -24,6 +24,7 @@ Para criar o frontend com angular:
 ## :scroll: Instruções: 
 
 * Se você clonou este repositório, precisará criar a base de dados com o Entity Framework.
+
 No Visual Studio 2019:
 
 1. Remova todo o conteudo da pasta Migrations.
